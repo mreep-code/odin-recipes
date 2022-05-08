@@ -1,0 +1,19 @@
+.pesto,
+.tako,
+.mille {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pesto {
+    background-color: darkolivegreen;
+}
+
+.tako {
+    background-color: #DDAB6F;
+}
+
+.mille {
+    background-color: darkseagreen;
+}
+
